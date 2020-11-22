@@ -2,3 +2,10 @@
 build
 web_modules
 node_modules
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+.cache
