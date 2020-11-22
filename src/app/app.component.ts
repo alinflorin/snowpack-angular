@@ -2,8 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
     selector: 'app-root',
-    templateUrl: 'app.component.html',
-    styleUrls: []
+    template:`adasdasdasd`
   })
 export class AppComponent{
     constructor() {
