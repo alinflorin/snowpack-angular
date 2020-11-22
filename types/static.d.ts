@@ -30,6 +30,9 @@ declare module '*.sass';
 declare module '*.less';
 declare module '*.styl';
 
+/* COMPONENT HTML */
+declare module '*.component.css';
+
 /* IMAGES */
 declare module '*.svg' {
   const ref: string;
